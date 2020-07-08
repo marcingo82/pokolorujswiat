@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fundacja “POKOLORUJ ŚWIAT” w Koszalinie</title>
+    <link>http://pokoloruj-swiat.pl/</link>
+    <description>Recent content on Fundacja “POKOLORUJ ŚWIAT” w Koszalinie</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    
+	<atom:link href="http://pokoloruj-swiat.pl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>O fundacji</title>
+      <link>http://pokoloruj-swiat.pl/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://pokoloruj-swiat.pl/about/</guid>
+      <description>Fundacja „Pokoloruj Świat” została założona w czerwcu 2013 roku z inicjatywy grupy niezależnych i energicznych mieszkanek Koszalina. Jednym z głównych celów Fundacji jest aktywizacja społeczności lokalnych, promowanie oraz wzmacnianie konkurencyjności regionu (m.in. poprzez wspieranie mikro, małych oraz średnich przedsiębiorstw). Chcemy przy tym wesprzeć rozwój turystyki, kultury, innowacji oraz technologii. Jako osoby żyjące w zgodzie z naturą, wspieramy inicjatywę ochrony środowiska, a także pomagamy rozwinąć się obszarom wiejskim i obszarom podlegającym restrukturyzacji.</description>
+    </item>
+    
+  </channel>
+</rss>
